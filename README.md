@@ -32,6 +32,8 @@ Finding meaningful solutions in a scalable way.
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-black?logo=laravel&style=social)&nbsp;&nbsp;
+![WordPress](https://img.shields.io/badge/-WordPress-black?logo=wordpress&style=social)&nbsp;&nbsp;
+
 
 ### 🏆 GitHub Trophies
 
