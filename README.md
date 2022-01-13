@@ -2,27 +2,15 @@
 
 Hi, I am Gautam 
 
-<!-- <a href="https://twitter.com/negi_akhilesh3"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>&nbsp;
-<a href="https://discordapp.com/users/akhilesh#8614"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"></a>&nbsp;
-<a href="https://instagram.com/negi_akhilesh3"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>&nbsp;
-<a href="https://www.linkedin.com/in/NegiAkhilesh/"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
-<a href="mailto:akhilesh.negi@coloredcow.com"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"></a> -->
+<!-- <a href="https://twitter.com/GAUTAM95633572"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>&nbsp;
+<a href="https://discordapp.com/users/kickb71#1139"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"></a>&nbsp;
+<a href="mailto:gautam.rajesh@coloredcow.com"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"></a> -->
 
-
-### :newspaper: Blog Posts
-
-- 
-
-
-### :computer: Work
-
-Finding meaningful solutions in a scalable way.
-
-- [Employee Portal](https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations
 
 ### 🔧 Technologies & Tools
 
 ![MacOS](https://img.shields.io/badge/-MacOS-black?logo=Apple&style=social)&nbsp;&nbsp;
+![KaliLinux](https://img.shields.io/badge/-KaliLinux-black?logo=kalilinux&style=social)&nbsp;&nbsp;
 ![VScode](https://img.shields.io/badge/-VScode-black?logo=visual-studio-code&style=social)&nbsp;&nbsp;
 ![iTerm2](https://img.shields.io/badge/-iTerm2-black?logo=Apple&style=social)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
@@ -33,6 +21,14 @@ Finding meaningful solutions in a scalable way.
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-black?logo=laravel&style=social)&nbsp;&nbsp;
 ![WordPress](https://img.shields.io/badge/-WordPress-black?logo=wordpress&style=social)&nbsp;&nbsp;
+![Solidity](https://img.shields.io/badge/-Solidity-black?logo=solidity&style=social)&nbsp;&nbsp;
+![Blockchain.com](https://img.shields.io/badge/-Blockchain.com-black?logo=blockchaindotcom&style=social)&nbsp;&nbsp;
+![Ethereum](https://img.shields.io/badge/-Ethereum-black?logo=ethereum&style=social)&nbsp;&nbsp;
+![Bitcoin](https://img.shields.io/badge/-Bitcoin-black?logo=bitcoin&style=social)&nbsp;&nbsp;
+![keras](https://img.shields.io/badge/-keras-black?logo=keras&style=social)&nbsp;&nbsp;
+![tensorflow](https://img.shields.io/badge/-tensorflow-black?logo=tensorflow&style=social)&nbsp;&nbsp;
+![Kaggle](https://img.shields.io/badge/-Kaggle-black?logo=kaggle&style=social)&nbsp;&nbsp;
+![HackTheBox](https://img.shields.io/badge/-HackTheBox-black?logo=hackthebox&style=social)&nbsp;&nbsp;
 
 
 ### 🏆 GitHub Trophies
