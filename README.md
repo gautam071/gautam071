@@ -10,25 +10,25 @@ Hi, I am Gautam
 ### 🔧 Technologies & Tools
 
 ![MacOS](https://img.shields.io/badge/-MacOS-black?logo=Apple&style=social)&nbsp;&nbsp;
-![KaliLinux](https://img.shields.io/badge/-KaliLinux-black?logo=kalilinux&style=social)&nbsp;&nbsp;
 ![VScode](https://img.shields.io/badge/-VScode-black?logo=visual-studio-code&style=social)&nbsp;&nbsp;
 ![iTerm2](https://img.shields.io/badge/-iTerm2-black?logo=Apple&style=social)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
-![Javascript](https://img.shields.io/badge/-Javascript-black?logo=javascript&style=social&logoColor=yellow)&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-black?logo=laravel&style=social)&nbsp;&nbsp;
 ![WordPress](https://img.shields.io/badge/-WordPress-black?logo=wordpress&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![Solidity](https://img.shields.io/badge/-Solidity-black?logo=solidity&style=social)&nbsp;&nbsp;
 ![Blockchain.com](https://img.shields.io/badge/-Blockchain.com-black?logo=blockchaindotcom&style=social)&nbsp;&nbsp;
 ![Ethereum](https://img.shields.io/badge/-Ethereum-black?logo=ethereum&style=social)&nbsp;&nbsp;
 ![Bitcoin](https://img.shields.io/badge/-Bitcoin-black?logo=bitcoin&style=social)&nbsp;&nbsp;
-![keras](https://img.shields.io/badge/-keras-black?logo=keras&style=social)&nbsp;&nbsp;
-![tensorflow](https://img.shields.io/badge/-tensorflow-black?logo=tensorflow&style=social)&nbsp;&nbsp;
+![Keras](https://img.shields.io/badge/-keras-black?logo=keras&style=social)&nbsp;&nbsp;
+![Tensorflow](https://img.shields.io/badge/-tensorflow-black?logo=tensorflow&style=social)&nbsp;&nbsp;
+![Javascript](https://img.shields.io/badge/-Javascript-black?logo=javascript&style=social&logoColor=yellow)&nbsp;&nbsp;
 ![Kaggle](https://img.shields.io/badge/-Kaggle-black?logo=kaggle&style=social)&nbsp;&nbsp;
 ![HackTheBox](https://img.shields.io/badge/-HackTheBox-black?logo=hackthebox&style=social)&nbsp;&nbsp;
+![KaliLinux](https://img.shields.io/badge/-KaliLinux-black?logo=kalilinux&style=social)&nbsp;&nbsp;
 
 
 ### 🏆 GitHub Trophies
