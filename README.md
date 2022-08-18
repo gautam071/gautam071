@@ -26,6 +26,8 @@ Hi, I am Gautam
 ![Kaggle](https://img.shields.io/badge/-Kaggle-black?logo=kaggle&style=social)&nbsp;&nbsp;
 ![HackTheBox](https://img.shields.io/badge/-HackTheBox-black?logo=hackthebox&style=social)&nbsp;&nbsp;
 ![KaliLinux](https://img.shields.io/badge/-KaliLinux-black?logo=kalilinux&style=social)&nbsp;&nbsp;
+![Cypress](https://img.shields.io/badge/-Cypress-black?logo=cypress&style=social)&nbsp;&nbsp;
+
 
 
 ### 🏆 GitHub Trophies
